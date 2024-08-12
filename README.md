@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my island🔥 I'm Dale
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dale-bezolli/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/bez_dale) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandelibezolli@gmail.com)
 
-<!--
-**dalebezolli/dalebezolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> We've got the power to help humanity, don't waste it arguing about technologies
 
-Here are some ideas to get you started:
+Don't forget to say hi to me in one of the socials above
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Some things about me
+- 🔭 I’m currently working on [cowatch](https://github.com/dalebezolli/cowatch)
+- 🌱 Loving my time with Golang, network engineering & Cloud development
+- ✨ Empowering other developers through positivity
+- 🎶 I crave techno & drum and bass 24/7
+
+### 💖Favourite technologies
+Golang & C++
